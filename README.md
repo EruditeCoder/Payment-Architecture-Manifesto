@@ -1,1 +1,1 @@
-# Payment-Architecture-Manifesto
+# A whitepaper on payment architecture 
