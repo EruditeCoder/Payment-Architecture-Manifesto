@@ -1,1 +1,1 @@
-# A whitepaper on payment architecture 
+# A white paper on payment architecture 
