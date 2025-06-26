@@ -1,4 +1,4 @@
-# The Payment Architecture Manifesto
+# The Payment Architecture Manifesto (v0.9)
 
 A white paper on payment architecture.
 
