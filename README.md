@@ -1,0 +1,1 @@
+# Payment-Architecture-Manifesto
