@@ -2,6 +2,8 @@
 
 A white paper on payment architecture.
 
+***Did not deep dive on every section since I did this under a time constraint but might go into more context in a future update.
+
 This document outlines foundational principles and advanced patterns for building trustworthy, resilient, and fraud-resistant payment infrastructure. It covers real-world techniques for modeling payment flows, escrow logic, reconciliation, conditional value handling, geographic abstraction, and operational observability.
 
 Whether you're designing B2B disbursement systems, compliance-critical platforms, or multi-rail global payments, this manifesto is intended to serve as a reference architecture for practitioners building from first principles.
