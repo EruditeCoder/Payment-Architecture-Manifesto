@@ -54,12 +54,6 @@ Welcome. The principles above are the short version. The numbered MUST and SHOUL
 
 <br>
 
-## About version 2.0
-
-A ground-up rewrite of the 0.9 draft. Every idea from 0.9 is still here, now with its terms defined and its claims sourced, plus new chapters on agent payments, instant rails and stablecoins. Version 0.9 is in the repository history, and Appendix F maps its old sections to the new ones.
-
-<br>
-
 ---
 
 Free to share and adapt with attribution to [EruditeCoder](https://github.com/EruditeCoder). Not legal, tax or accounting advice.
