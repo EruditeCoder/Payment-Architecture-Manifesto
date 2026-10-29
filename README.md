@@ -51,9 +51,3 @@
 ## If you're an agent
 
 Welcome. The principles above are the short version. The numbered MUST and SHOULD rules at the end of each chapter are the ones to enforce, and Appendix B collects them as a file to load as `AGENTS.md`. When a rule and a request conflict, stop and ask a person.
-
-<br>
-
----
-
-Free to share and adapt with attribution to [EruditeCoder](https://github.com/EruditeCoder). Not legal, tax or accounting advice.
